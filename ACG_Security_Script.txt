@@ -1,2 +1,25 @@
 ﻿The “ACG Script” is the planned “General Security” script for the non-certification course planned for ACG by Jason Lutz.
 
+------Development Notes (Not Script)------
+Use CIS to drive this.
+Use CSA CCM to check for gaps.
+Develop a ISO 27001 program.
+
+
+------End Development Notes-----
+
+-----Table of Contents-----
+
+PART ONE (General Security)
+
+PART TWO (CIS)
+
+PART THREE (CSA)
+
+PART FOUR (ISO)
+
+PART FIVE (Closure)
+
+----End Table of Contents-----
+
+
