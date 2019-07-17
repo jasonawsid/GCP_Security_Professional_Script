@@ -12,7 +12,11 @@ Develop a ISO 27001 program.
 
 PART ONE (General Security)
 1. Benefits of using the cloud.
+	All the benefits.
+	Definitions.
 2. Security concerns using the cloud.
+	Responsiblity model
+
 3. Introduction to GCP/Review.
 4. Security Best Practices in Cloud.
 5. Security Best Practice. in GCP.
@@ -32,6 +36,11 @@ PART THREE (Security at the Host Level)
 2. Discussion of network security (methods and tools).
 3. Discussion of other security items (methods and tools).
 4. Other security concerns (methods and tools).
+
+PART FOUR (Application security).
+1. Application security (methods and tools).
+2. GCP Application security (methods and tools).
+3. Other applicaiton security (method and tools).
 
 PART THREE (CSA)
 
