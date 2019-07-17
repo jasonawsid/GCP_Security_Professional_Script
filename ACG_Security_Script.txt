@@ -1,0 +1,2 @@
+﻿The “ACG Script” is the planned “General Security” script for the non-certification course planned for ACG by Jason Lutz.
+
