@@ -19,6 +19,10 @@ PART ONE (General Security)
 PART TWO (CIS)
 1. Demonstration of CIS GCP documentation.
 2. Discussion of the CIS domains and resolutions.
+	IAM
+	Logging and Monitoring
+	Networking
+	
 3. Hands on Item #1
 4. Testing for compliance within GCP.
 5. Testing for compliance third party.
